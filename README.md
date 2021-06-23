@@ -1,4 +1,4 @@
-### Hi there, I'm Sandeep Rapolu - aka [BaNaNa] 👋
+### Hi there, I'm Sandeep Rapolu 👋
 
 ## I'm a Freelancer
 
