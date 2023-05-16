@@ -36,5 +36,3 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/san_dee_p_r/
-[linkedin]: https://www.linkedin.com/in/sandeep-rapolu-518114138/
