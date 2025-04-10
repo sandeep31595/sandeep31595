@@ -2,9 +2,9 @@
 
 ## I'm a Freelancer
 
-- 🌱 I’m currently Working On ReactJs, GatsBy, Nextjs, Laravel
+- 🌱 I’m currently Working On ReactJs, GatsBy, Nextjs, Node Js, MonogDB, Express JS
 - 👯 I’m looking to Go in more depth with ReactJs
-- 🥅 2023 Goals: Multiple ReactJs self made Website
+- 🥅 2025 Goals: Multiple ReactJs self made Website
 - ⚡ Fun fact: I love to Game
 
 
